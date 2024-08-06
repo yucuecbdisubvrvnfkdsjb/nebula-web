@@ -8,7 +8,6 @@ import { AiOutlineLaptop } from "react-icons/ai";
 import { FaPalette } from "react-icons/fa";
 import { FaGear } from "react-icons/fa6";
 import { IoMdPerson } from "react-icons/io";
-import { Credits } from "./Credits";
 
 const tabs = [
   {
