@@ -68,11 +68,6 @@ export function Header() {
                   translationKey="header.settings"
                 />
                 <HeaderButton
-                  href="/faq"
-                  Icon={BsQuestionLg}
-                  translationKey="header.faq"
-                />
-                <HeaderButton
                   href="/discord"
                   Icon={RiLinksFill}
                   translationKey="header.discord"
