@@ -6,7 +6,7 @@ import { ProxyFrame } from "./pages/ProxyFrame.js";
 import { Radon } from "./pages/Radon";
 import { Settings } from "./pages/Settings/";
 import { AboutBlank } from "./AboutBlank";
-import { Faq } from "./pages/Faq";
+
 // import { registerRemoteListener } from "@mercuryworkshop/bare-mux";
 import "./style.css";
 import "./i18n";
