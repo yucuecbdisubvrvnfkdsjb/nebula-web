@@ -31,7 +31,7 @@ export function DiscordPage() {
             onClick={() => {
               window.location.href =
                 window.__uv$config.prefix +
-                window.__uv$config.encodeUrl("https://discord.gg/unblocker");
+                window.__uv$config.encodeUrl("https://discord.gg/vTc2UUrsGf");
             }}
             className="p-6"
           >
